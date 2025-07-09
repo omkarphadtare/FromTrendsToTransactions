@@ -397,7 +397,7 @@ st.markdown(f'''
             Stay ahead of emerging fashion trends and consumer preferences.
         </p>
         <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-            <a href="https://your-link-2" target="_blank" class="service-link">
+            <a href="https://app.powerbi.com/reportEmbed?reportId=7f1ad401-3538-4acf-9c4d-bd230c6865f5&autoAuth=true&ctid=46fe5ca5-866f-4e42-92e9-ed8786245545" target="_blank" class="service-link">
                 🔍 Explore Trends →
             </a>
             <span style="font-size: 0.95rem; color: #64748b; padding: 0.5rem;">
