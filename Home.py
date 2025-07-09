@@ -531,7 +531,7 @@ st.markdown('''
     <div class="footer-content">
         <strong>Smarter decisions</strong> | Contributing to UN SDG 8 • 9 • 12<br>
         <em>Decent Work & Economic Growth • Industry Innovation • Responsible Consumption</em><br><br>
-         | 📧 <a href="124109697@umail.ucc.ie">Contact Us</a> | 
+         | 📧 <a href="mailto:124109697@umail.ucc.ie">Contact Us</a> | 
     </div>
 </div>
 ''', unsafe_allow_html=True)
