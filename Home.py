@@ -422,7 +422,7 @@ st.markdown(f'''
             Reduce stockouts and overstock with precise demand predictions.
         </p>
         <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-            <a href="https://your-link-3" target="_blank" class="service-link">
+            <a href="https://app.powerbi.com/reportEmbed?reportId=bb2c9fff-5cf5-4efd-b19b-f22b03c9902b&autoAuth=true&ctid=46fe5ca5-866f-4e42-92e9-ed8786245545" target="_blank" class="service-link">
                 🤖 View Forecasts →
             </a>
             <span style="font-size: 0.95rem; color: #64748b; padding: 0.5rem;">
